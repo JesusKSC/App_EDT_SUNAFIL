@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# caché local del OCR y de Gemini (contiene el texto de los documentos)
+.cache/
+# claves: nunca se suben
+.streamlit/secrets.toml
